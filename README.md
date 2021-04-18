@@ -24,7 +24,6 @@ Disk | Fast SSD | WD Black SN750 NVMe - https://www.jarcomputers.com/p/SSDWDWDS5
 Other | Motherboard | https://www.jarcomputers.com/p/MBAASROCKB550MPRO4/ASRock.html?ref=c_1
 Other | Case | https://www.jarcomputers.com/p/CASEPZALMANZMS3/Zalman-S3-ZM-S3.html?ref=c_1
 Other | PSU | https://www.jarcomputers.com/p/PWRPCCMMPE6501ACABWBEU/Cooler-Master-MPE-6501-ACABW-BEU.html?ref=c_1
-
 Other | Цяла конфигурация | https://www.jarcomputers.com/cart/recommend/O5Qf1PhReownBhj
 
 2. Adobe Premiere - бюджет 3000 лв. 
@@ -37,8 +36,7 @@ GPU | 4gb VRAM | RTX 3060 Ti - https://www.jarcomputers.com/p/VCRASUSTUFRTX3060T
 Disk | Fast SSD | Samsung 970 Evo Plus NVMe - https://www.jarcomputers.com/p/SSDSAMSUNGMZV7S500BW/Samsung-970-EVO-Plus-500-GB-MZ-V7S500BW.html?ref=c_1
 Other | Motherboard | https://www.jarcomputers.com/p/MBAASUSPRIMEX570P/Asus-Prime-X570-P.html?ref=c_1
 Other | Case | https://www.jarcomputers.com/p/CASEPZALMANZMS3/Zalman-S3-ZM-S3.html?ref=c_1
-Other | PSU | https://www.jarcomputers.com/p/PWRPCCMMPE6501ACABWBEU/Cooler-Master-MPE-6501-ACABW-BEU.html?ref=c_1
-                                                                        
+Other | PSU | https://www.jarcomputers.com/p/PWRPCCMMPE6501ACABWBEU/Cooler-Master-MPE-6501-ACABW-BEU.html?ref=c_1                                                            
 Other | Цяла конфигурация | https://www.jarcomputers.com/cart/recommend/yeQO3jSULTKqDse
                                      
                      
